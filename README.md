@@ -39,8 +39,8 @@ Check out the other hands-on projects in this series:
 | # | Project Title | Repository Link |
 |---|---|---|
 | 1 | 🏦 Simple Bank Account System | 📍 Current Repository |
-| 2 | 🚗 Simple Vehicle Management System | ⏳ Coming Soon |
-| 3 | 🛒 Simple Online Product Display System | ⏳ Coming Soon |
+| 2 | 🚗 Simple Vehicle Management System | 🔗 [View Repository](https://github.com/EarnL/HANDSON_QUIZ2_Simple-Vehicle-Management-System.git) |
+| 3 | 🛒 Simple Online Product Display System | 🔗 [View Repository](https://github.com/EarnL/HANDS_ON_QUIZ3_Simple-Online-Product-Display-System.git) |
 
 ---
 
